@@ -1,0 +1,6 @@
+name = "h2t"
+type = "javascript"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
